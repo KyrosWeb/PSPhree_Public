@@ -1,0 +1,8 @@
+#Docker compose file by KyrosWeb
+version: '3.8'
+
+services:
+  psphree:
+    image: docker.io/kyrosweb/psphree
+    ports:
+      - "8080:80"
