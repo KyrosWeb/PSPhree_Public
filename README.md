@@ -8,7 +8,7 @@ Unofficial Update of PS-Phive v3 by Leeful FOR PS4 FW 9.00
 4) Docker container that runs all the stack exposing the 8080 port
 
 # Attention
-This version of PSPhree is only for PS4 FW9.00.
+The PSFree exploit is for 6.xx to 9.60 but this version of PSPhree have been only tested on PS4 FW9.00.
 
 
 ## Prerequisites
