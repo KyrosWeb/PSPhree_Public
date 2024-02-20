@@ -3,6 +3,6 @@ version: '3.8'
 
 services:
   psphree:
-    image: docker.io/kyrosweb/psphree:v1.0
+    image: docker.io/kyrosweb/psphree:latest
     ports:
       - "8080:80"
