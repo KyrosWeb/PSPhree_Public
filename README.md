@@ -1,6 +1,9 @@
 # PSPhree_Public v.1.0
 Unofficial Update of PS-Phive v3 by Leeful FOR PS4 FW 9.00
 
+# News
+Updated with latest GoldHen v2.4b17
+
 # What is included in this version
 1) New PSFree Exploit
 2) Latest Beta Gold Hen Payload coded by SiSTR0 2.4b16
