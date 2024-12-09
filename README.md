@@ -6,7 +6,7 @@ Updated with latest GoldHen v2.4b18
 
 # What is included in this version
 1) New PSFree Exploit
-2) Latest Beta Gold Hen Payload coded by SiSTR0 2.4b16
+2) Latest Beta Gold Hen Payload coded by SiSTR0 2.4b18
 3) Linux Payloads for all consoles
 4) Docker container that runs all the stack exposing the 8080 port
 
