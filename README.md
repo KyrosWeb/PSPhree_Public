@@ -2,7 +2,7 @@
 Unofficial Update of PS-Phive v3 by Leeful FOR PS4 FW 9.00
 
 # News
-Updated with latest GoldHen v2.4b17
+Updated with latest GoldHen v2.4b18
 
 # What is included in this version
 1) New PSFree Exploit
